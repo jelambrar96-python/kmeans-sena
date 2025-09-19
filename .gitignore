@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+nb_aa01.md
+nb_aa01.pdf
+nb_aa01_files/
